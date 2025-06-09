@@ -5,14 +5,14 @@
 **C.** Memahami Sum of Squares Within dan Between (SSW dan SSB)  
 **D.** Uji Hipotesis dengan F-Statistic  
 
----
+
 
 ## Deskripsi Singkat
 
 **Analysis of Variance**, atau **ANOVA**, adalah metode statistik untuk membandingkan rata-rata dari **tiga atau lebih kelompok** untuk melihat apakah ada **perbedaan signifikan**.  
 Unit ini akan memperkenalkan konsep dasar ANOVA secara bertahap, mulai dari apa itu variasi hingga cara menghitung dan menginterpretasikan hasilnya.  
 
----
+
 
 # About This Unit  
 ## ANOVA  
@@ -21,14 +21,14 @@ Unit ini akan memperkenalkan konsep dasar ANOVA secara bertahap, mulai dari apa 
 **C.** Memahami Sum of Squares Within dan Between (SSW dan SSB)  
 **D.** Uji Hipotesis dengan F-Statistic  
 
----
+
 
 ## Deskripsi Singkat
 
 **Analysis of Variance**, atau **ANOVA**, adalah metode statistik untuk membandingkan rata-rata dari **tiga atau lebih kelompok** untuk melihat apakah ada **perbedaan signifikan**.  
 Unit ini akan memperkenalkan konsep dasar ANOVA secara bertahap, mulai dari apa itu variasi hingga cara menghitung dan menginterpretasikan hasilnya.  
 
----
+
 
 ### A. Apa itu ANOVA, Variansi, dan Derajat Kebebasan?
 
@@ -63,9 +63,7 @@ Pahami konsep dasar ANOVA dan bagaimana variasi data digunakan untuk membandingk
 
   ANOVA akan membantu kita tahu apakah metode pengajaran di ketiga kelompok ini memberikan pengaruh yang berbeda secara signifikan terhadap nilai.
 
----
 
----
 
 ### B. Menghitung Total Sum of Squares (SST)
 
@@ -96,7 +94,7 @@ Pelajari cara menghitung total variasi dalam data dengan rumus sederhana.
   $$
   Hasilnya adalah total variasi (**SST**).
 
----
+
 
 ### C. Memahami Sum of Squares Within dan Between (SSW dan SSB)
 
@@ -113,7 +111,7 @@ Kenali perbedaan variasi di dalam kelompok dan antar kelompok.
 - **SST = SSB + SSW**  
   Total variasi dibagi menjadi dua bagian untuk analisis lebih lanjut.
 
----
+
 
 ### D. Uji Hipotesis dengan F-Statistic
 Uji F-statistika digunakan karena mampu mengukur perbandingan variasi antar kelompok dengan variasi dalam kelompok secara sekaligus.
@@ -134,4 +132,4 @@ Mulai memahami cara menggunakan statistik F untuk menguji perbedaan signifikan.
 - Jika nilai **F** cukup besar, maka ada kemungkinan besar bahwa **setidaknya satu kelompok berbeda secara signifikan** dari yang lain.  
   Uji ini digunakan untuk **menerima atau menolak hipotesis nol (H₀)**, yang menyatakan bahwa semua rata-rata kelompok sama.
 
----
+
