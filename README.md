@@ -71,9 +71,7 @@ Pelajari cara menghitung total variasi dalam data dengan rumus sederhana.
 
 - **SST:** mengukur total variasi dalam semua data.  
 - **Rumus:**  
-  $$
-  SST = \sum (x_i - \bar{x})^2
-  $$
+  $$SST = \sum (x_i - \bar{x})^2$$
 
   Di mana:
   - $x_i$ adalah setiap nilai data
@@ -83,13 +81,11 @@ Pelajari cara menghitung total variasi dalam data dengan rumus sederhana.
 
   Rata-rata semua nilai:
 
-  $$
-  \frac{80+82+78+90+92+88+70+72+68}{9} = 80
-  $$
+  $$\frac{80+82+78+90+92+88+70+72+68}{9} = 80$$
 
   Hitung:
 
-  $$(80-80)^2 + (82-80)^2 + \dots + (68-80)^2$$
+  $$(80-80)^2 + (82-80)^2 + \dots + (68-80)^2$$    
   Hasilnya adalah total variasi (**SST**).
 
 
@@ -117,7 +113,7 @@ Uji F-statistika digunakan karena mampu mengukur perbandingan variasi antar kelo
 Mulai memahami cara menggunakan statistik F untuk menguji perbedaan signifikan.
 
 - **F-statistic** dihitung dengan:  
-  $$F = \frac{\mathrm{SSB} / \mathrm{df}_{\mathrm{between}}}{\mathrm{SSW} / \mathrm{df}_{\mathrm{within}}}$$
+$$ F = \frac{\mathrm{SSB} / \mathrm{df}_{\mathrm{between}}}{\mathrm{SSW} / \mathrm{df}_{\mathrm{within}}} $$
 
 - **Derajat kebebasan (degrees of freedom / df):**  
   - $\text{df}_{\text{between}} = k - 1$,  
