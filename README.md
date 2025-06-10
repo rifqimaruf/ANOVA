@@ -119,10 +119,9 @@ Uji F-statistika digunakan karena mampu mengukur perbandingan variasi antar kelo
 Mulai memahami cara menggunakan statistik F untuk menguji perbedaan signifikan.
 
 - **F-statistic** dihitung dengan:  
-  
-$$
-\frac{\partial SSE}{\partial \alpha} = 2 \sum_i (\alpha x_i + \beta - y_i) x_i
-$$
+  $$
+  F = \frac{\mathrm{SSB} / \mathrm{df}_{\mathrm{between}}}{\mathrm{SSW} / \mathrm{df}_{\mathrm{within}}}
+  $$
 
 - **Derajat kebebasan (degrees of freedom / df):**  
   - $\text{df}_{\text{between}} = k - 1$,  
