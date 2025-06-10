@@ -120,9 +120,9 @@ Mulai memahami cara menggunakan statistik F untuk menguji perbedaan signifikan.
 
 - **F-statistic** dihitung dengan:  
   
-  ```math
-  F = \frac{\text{SSB} / \text{df}_{\text{between}}}{\text{SSW} / \text{df}_{\text{within}}}
-  ```
+$$
+\frac{\partial SSE}{\partial \alpha} = 2 \sum_i (\alpha x_i + \beta - y_i) x_i
+$$
 
 - **Derajat kebebasan (degrees of freedom / df):**  
   - $\text{df}_{\text{between}} = k - 1$,  
