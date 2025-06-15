@@ -1,21 +1,5 @@
 # About This Unit  
 ## ANOVA  
-**A.** Apa itu ANOVA, Variasi, dan Derajat kebebasan?  
-**B.** Menghitung Total Sum of Squares (SST)  
-**C.** Memahami Sum of Squares Within dan Between (SSW dan SSB)  
-**D.** Uji Hipotesis dengan F-Statistic  
-
-
-
-## Deskripsi Singkat
-
-**Analysis of Variance**, atau **ANOVA**, adalah metode statistik untuk membandingkan rata-rata dari **tiga atau lebih kelompok** untuk melihat apakah ada **perbedaan signifikan**.  
-Unit ini akan memperkenalkan konsep dasar ANOVA secara bertahap, mulai dari apa itu variasi hingga cara menghitung dan menginterpretasikan hasilnya.  
-
-
-
-# About This Unit  
-## ANOVA  
 **A.** Apa itu ANOVA dan Variasi  
 **B.** Menghitung Total Sum of Squares (SST)  
 **C.** Memahami Sum of Squares Within dan Between (SSW dan SSB)  
